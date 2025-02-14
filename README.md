@@ -53,7 +53,7 @@ Altcoin Momentum: Analyzes emerging projects like Solana, XRP, and meme coins.
 🛠 Installation
 
 # Clone the repository  
-git clone https://github.com/your-repo/crypto-market-tracker.git  
+git clone repository  
 
 # Install dependencies  
 pip install pandas, requests, seaborn, matplotlib, openpyxl  
