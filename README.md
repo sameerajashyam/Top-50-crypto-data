@@ -37,6 +37,8 @@ Analyze Trends: Determines top assets, highest/lowest price movements, and marke
 Save & Update: Stores historical data in an Excel file for deeper analysis.
 
 Visualize Trends: Generates time-series plots to track price fluctuations.
+![image](https://github.com/user-attachments/assets/22beeff7-b2f6-4afc-830c-417effc13df0)
+
 
 📊 Key Insights Generated
 
