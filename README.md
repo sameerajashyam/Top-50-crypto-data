@@ -26,7 +26,7 @@ Matplotlib & Seaborn 📈 for visualization.
 
 CoinGecko API 🔗 for live data retrieval.
 
-Google Colab ☁️ for cloud-based execution (optional).
+I had used colab for execution
 
 🔥 How It Works
 
@@ -54,7 +54,7 @@ Altcoin Momentum: Analyzes emerging projects like Solana, XRP, and meme coins.
 git clone https://github.com/your-repo/crypto-market-tracker.git  
 
 # Install dependencies  
-pip install pandas requests seaborn matplotlib openpyxl  
+pip install pandas, requests, seaborn, matplotlib, openpyxl  
 
 # Run the script  
 python crypto_tracker.py  
